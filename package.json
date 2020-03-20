@@ -1,0 +1,16 @@
+{
+  "name": "album-list",
+  "version": "1.0.0",
+  "description": "Sample app to teach Knex with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.11",
+    "pg": "^7.18.2"
+  }
+}
